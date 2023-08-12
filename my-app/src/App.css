@@ -1,0 +1,30 @@
+.grid{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.6rem;
+    height: 10px;
+    
+  
+}
+.card{
+    padding: 2em;
+    border: 1px solid blueviolet;
+  
+   
+}
+.raju{
+    width: 100px;
+    height: 100px;
+}
+.text{
+    text-align: center;
+    color: rgb(136, 138, 151);
+    margin-top: 150px ;
+}
+.font{
+    text-align: center;
+    font-size: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+}
